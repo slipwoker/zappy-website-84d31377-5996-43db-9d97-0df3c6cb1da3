@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Join Cloud 9 Gaming's vibrant community where Roblox gameplay meets makeup and feminine flair. Subscribe now for unique gaming content that breaks stereotypes!
+
+### About
+https://example.com/about
+Discover the female-led YouTube gaming channel redefining gaming culture. Cloud 9 Gaming celebrates feminine interests with Roblox content and beauty vibes.
+
+### Content
+https://example.com/content
+Explore our signature blend of Roblox gaming videos and makeup content. Watch engaging gameplay, tutorials, and join us for our epic 10K subscriber face reveal!
+
+### Contact
+https://example.com/contact
+Connect with Cloud 9 Gaming for collaborations, sponsorships, or just to say hi! Become part of our thriving community of gaming enthusiasts and Roblox players.
+
+### Products
+https://example.com/products
+Our Products - Cloud 9 Gaming
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Cloud 9 Gaming
+
+### Category
+https://example.com/category/:slug
+Products - Cloud 9 Gaming
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
